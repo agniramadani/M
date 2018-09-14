@@ -1,0 +1,17 @@
+C:\Users\Agni\source\repos\MY_NOTES\MY_NOTES\bin\Debug\MY_NOTES.exe.config
+C:\Users\Agni\source\repos\MY_NOTES\MY_NOTES\bin\Debug\MY_NOTES.exe
+C:\Users\Agni\source\repos\MY_NOTES\MY_NOTES\bin\Debug\MY_NOTES.pdb
+C:\Users\Agni\source\repos\MY_NOTES\MY_NOTES\obj\Debug\MY_NOTES.csprojResolveAssemblyReference.cache
+C:\Users\Agni\source\repos\MY_NOTES\MY_NOTES\obj\Debug\MY_NOTES.Form1.resources
+C:\Users\Agni\source\repos\MY_NOTES\MY_NOTES\obj\Debug\MY_NOTES.MainPage.resources
+C:\Users\Agni\source\repos\MY_NOTES\MY_NOTES\obj\Debug\MY_NOTES.Properties.Resources.resources
+C:\Users\Agni\source\repos\MY_NOTES\MY_NOTES\obj\Debug\MY_NOTES.csproj.GenerateResource.Cache
+C:\Users\Agni\source\repos\MY_NOTES\MY_NOTES\obj\Debug\MY_NOTES.csproj.CoreCompileInputs.cache
+C:\Users\Agni\source\repos\MY_NOTES\MY_NOTES\obj\Debug\MY_NOTES.exe
+C:\Users\Agni\source\repos\MY_NOTES\MY_NOTES\obj\Debug\MY_NOTES.pdb
+C:\Users\Agni\source\repos\MY_NOTES\MY_NOTES\obj\Debug\MY_NOTES.AddPerson.resources
+C:\Users\Agni\source\repos\MY_NOTES\MY_NOTES\obj\Debug\MY_NOTES.PersonInfo.resources
+C:\Users\Agni\source\repos\MY_NOTES\MY_NOTES\obj\Debug\MY_NOTES.DeletePerson.resources
+C:\Users\Agni\source\repos\MY_NOTES\MY_NOTES\obj\Debug\MY_NOTES.UpdatePerson.resources
+C:\Users\Agni\source\repos\MY_NOTES\MY_NOTES\obj\Debug\MY_NOTES.DeletedPersonInfo.resources
+C:\Users\Agni\source\repos\MY_NOTES\MY_NOTES\obj\Debug\MY_NOTES.ReturnDeletedPerson.resources
